@@ -4,4 +4,7 @@
 node 18.18 이상
 npx create-next-app@latest
 ```
-TEST
+
+```
+typescript, eslint, tailwind CSS 활성화
+```
